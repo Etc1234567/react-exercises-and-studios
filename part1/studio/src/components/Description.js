@@ -1,6 +1,21 @@
 import styles from './Description.module.css';
+import React from 'react';
 
-export default function RecipeAuthor() {
+class RecipeDescription extends React.Component {
+    render() {
+        return (
+            <div>
+                <div>
+                    <h1>Hanger Steak</h1>
+                    <p>Hanger Steak with jalapenos and fresh limes. </p>
+                </div>
+                <RecipeAuthor />
+            </div>
+        );
+    }
+}
+
+function RecipeAuthor() {
    let authorLink = "https://www.antoniporowski.com/";
    let authorPhoto = "https://www.you.co.uk/wp-content/uploads/2019/09/queer-eye-antoni-recipes-.jpg";
    let authorName = "Antoni Porowski";
@@ -14,5 +29,6 @@ export default function RecipeAuthor() {
        </div>
     </div>
  );
-
 }
+
+export default RecipeDescription; 
