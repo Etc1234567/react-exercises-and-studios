@@ -3,6 +3,8 @@
    font: arial;
    font-size: 18px;
    font-style: italic;
+   text-align: left;
+   border: dotted;
 }
 
 .choresHeading {
@@ -10,4 +12,5 @@
    font: arial;
    font-size: 20px;
    text-decoration: underline;
+   text-align: left;
 }
