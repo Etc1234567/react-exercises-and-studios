@@ -1,0 +1,32 @@
+[
+    {
+        "title": "THe Legend of Zelda: Tears of the Kingdom",
+        "studio": "Nintendo",
+        "length": "Up to 70 hours",
+        "genre": "Puzzle, Action-adventure, Fighting game"
+    },
+    {
+        "title": "Baldur's Gate 3",
+        "studio": "Larian Studio",
+        "length": "Up to 100 hours",
+        "genre": "RPG, Adventure, Strategy"
+    },
+    {
+        "title": "Elder Scrolls VI",
+        "studio": "Bethesda Softworks",
+        "length": "Unknown, rumored to be mid-sized game",
+        "genre": "Action role-playing game"
+    },
+    {
+        "title": "Disco Elysium",
+        "studio": "ZA/UM",
+        "length": "23 hours",
+        "genre": "Role-playing, Adventure"
+    },
+    {
+        "title": "Phasmophobia",
+        "studio": "Kinetic Games",
+        "length": "Not applicable, multiplayer game",
+        "genre": " Virtual reality, Adventure, Indie, Survival horror, Puzzle"
+    }
+]
